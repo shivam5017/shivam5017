@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Malik</h1>
-<h3 align="center"An enthusiastic Full-stack web developer who is capable of using technical skills for the betterment of the organization.</h3>
+<h3 align="center">An enthusiastic Full-stack web developer who is capable of using technical skills for the betterment of the organization. Proficiency in React, Problem-solving mindset, and the ability to collaborate well.</h3>
 <img align="center" width="100%" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="developer_image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam5017&label=Profile%20views&color=0e75b6&style=flat" alt="shivammalik" /> </p>
